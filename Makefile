@@ -7,9 +7,6 @@
 # - make verifs  # To check for correctness: wrapping, spelling
 # - make wrap  # To check for wrapping
 # - make spell  # To check for spelling
-# - make merge  # To merge pot from upstream
-# - make fuzzy  # To find fuzzy strings
-# - make progress  # To compute current progression
 #
 # Modes are: autobuild-stable, autobuild-dev, and autobuild-html,
 # documented in gen/src/3.6/Doc/Makefile as we're only delegating the
